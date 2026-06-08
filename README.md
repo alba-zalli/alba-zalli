@@ -1,4 +1,4 @@
-## Hello reader 👋 ⋆ ˚｡⋆୨୧˚
+## Hello reader ⋆ ˚｡⋆୨୧˚
 
 ![Static Badge](https://img.shields.io/badge/email-zalli.alba%40gmail.com-pink)
 ![Static Badge](https://img.shields.io/badge/website-alba--zalli.github.io-%23ffc891?link=https%3A%2F%2Falba-zalli.github.io%2F)
