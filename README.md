@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/linkedin-linkedin%2Falba--zalli-%23ebdf3d?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falba-zalli%2F)
 ![Static Badge](https://img.shields.io/badge/github-github%2Falba--zalli-%2368d46d?link=https%3A%2F%2Fgithub.com%2Falba-zalli%2F)
 
-I'm a second year student at the university of waterloo. I like making cool stuff! Writing, art, coding, etc. :D
+I'm a second year student at the University of Waterloo. I like making cool stuff! Writing, art, coding, etc. :D
 
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
