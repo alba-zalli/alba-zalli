@@ -1,5 +1,4 @@
 ## Hello reader ⋆ ˚｡⋆୨୧˚
-Enjoy stalking my profile  : ) 
 
 
 <!--
